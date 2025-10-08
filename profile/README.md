@@ -1,4 +1,4 @@
-# InfoServe: Integrated Barangay Information and Service System  
+# InfoServe: An Integrated Barangay Information and Services System  
 
 **InfoServe** is an integrated digital platform developed to modernize barangay operations and public service delivery. It replaces outdated manual processes with a secure, data-driven system designed for accuracy, efficiency, and accessibility.
 
